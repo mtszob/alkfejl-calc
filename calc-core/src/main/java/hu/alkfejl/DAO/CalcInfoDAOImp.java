@@ -15,7 +15,7 @@ public class CalcInfoDAOImp implements CalcInfoDAO {
     }
 
     
-    private static final String CONN = "jdbc:sqlite:I:/Downloads/ALKFEJL/calc/calc-core/calc.db";
+    private static final String CONN = "jdbc:sqlite:I:/Downloads/ALKFEJL/alkfejl-calc/calc-core/calc.db";
     private static final String UPDATE = "UPDATE CalcInfo SET mentettErtek=?";
     private static final String GET_MENTETT_ERTEK = "SELECT mentettErtek FROM CalcInfo";
     private static final String GET_ARFOLYAM = "SELECT arfolyam FROM CalcInfo";

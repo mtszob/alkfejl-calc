@@ -9,7 +9,7 @@
 for example:
 
 ```java
-private static final String CONN = "jdbc:sqlite:C:/.../(folder that contains the project)/calc/calc-core/calc.db"
+private static final String CONN = "jdbc:sqlite:C:/.../(folder that contains the project)/alkfejl-calc/calc-core/calc.db"
 ```
 
 CalcInfoDAOImp is located in calc\calc-core\src\main\java\hu\alkfejl\DAO
